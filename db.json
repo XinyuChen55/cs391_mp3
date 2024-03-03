@@ -1,31 +1,44 @@
-{
-    "posts": [
-      {
-        "id": 1,
-        "title": "Post 1"
-      },
-      {
-        "id": 2,
-        "title": "Post 2"
-      },
-      {
-        "id": 3,
-        "title": "Post 3"
-      }
-    ],
-    "comments": [
-      {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-      },
-      {
-        "id": 2,
-        "body": "some comment",
-        "postId": 1
-      }
-    ],
-    "profile": {
-      "name": "typicode"
+[
+    {
+      "id": 1,
+      "title": "CS332: Homework 5",
+      "body": "a weekly assignment including several written questions due by 3/8 and should be submitted to Gradescope. Hiwadfh aefhaoif afhoie awopacwuhad asr iae gera",
+      "lane": 1
+    },
+    {
+      "id": 2,
+      "title": "CS391: Mini Project 3",
+      "body": "a project using Vite.js due by 3/4 and should be submitted to Blackboard.s aldifshieg aefbkd wijdalf sua fei x arf",
+      "lane": 2
+    },
+    {
+      "id": 3,
+      "title": "XC410: Literature Reivew",
+      "body": "a literature review paper with 3-6 pages due by 3/3 and should be submitted to BlackBoard. safhiow afehi ae hrua aoirh ashu faoeih aehuira",
+      "lane": 2
+    },
+    {
+      "id": 4,
+      "title": "CS332: Howmework 4",
+      "body": "a weekly assignment including several written questions. Hiwadfh aefhaoif afhoie awopacwuhad asr iae gera aefo avdg",
+      "lane": 3
+    },
+    {
+      "id": 5,
+      "title": "CS440: Programing Assignment BattleShip",
+      "body": "Cras tellus ligula, mattis at facilisis eu, ultricies vel elit. Ut aliquam volutpat lacus, a rutrum sem vulputate non.",
+      "lane": 1
+    },
+    {
+      "id": 6,
+      "title": "CS391: Quiz 3",
+      "body": "In vel commodo ipsum. Duis id ipsum semper, condimentum ipsum sit amet, maximus massa.",
+      "lane": 3
+    },
+    {
+      "id": 7,
+      "title": "CS332: Midterm 1",
+      "body": " Curabitur nec sem lorem. Donec venenatis, arcu vitae malesuada consequat, dolor ante placerat mi, in fermentum diam ipsum id libero.",
+      "lane": 4
     }
-  }
+  ]
